@@ -40,12 +40,28 @@ This data forms the basis for random demand generation in the simulation.
 
 ---
 
+📌 Business Insights
+- Small increases in reorder point significantly reduce stockout risk
+- Monte Carlo simulation helps quantify uncertainty instead of relying on averages
+- The model can support inventory planning decisions in retail and supply chain operations
+
+---
+
+📌 Assumptions
+- Customer demand follows a normal distribution
+- Lead time is constant
+- Historical demand is representative of future demand
+
+---
+
+
 ## 📊 Key Results
 - The Monte Carlo simulation successfully modeled demand uncertainty  
 - An optimized reorder point reduced stockout probability to approximately **2–5%**  
 - The final inventory policy balances service level and inventory holding risk  
 
 ---
+
 
 ## 📈 Conclusion
 Monte Carlo simulation is an effective approach for inventory optimization under uncertainty. This project demonstrates how Excel can be used as a powerful analytical tool to support operational decision-making without advanced programming.
